@@ -1,4 +1,4 @@
-let villeChoisie = "saint-saulve";
+let villeChoisie = "Antananarivo";
 recevoirTemperature(villeChoisie);
 
 let changerDeVille = document.querySelector('#changer');
